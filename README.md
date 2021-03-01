@@ -3,7 +3,7 @@
 
 A Flutter App for logo classification. It uses a Machine Learning Model serves on an api.
 
-3 logos are available for now (nike, adidas, puma)
+3 logos are available for now (nike, adidas, puma).
 75% accuracy for the classifier on test dataset
 
 ## Demo
