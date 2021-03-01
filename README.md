@@ -1,11 +1,2 @@
-# guess_mobile_app
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.
+# Guess
+A Flutter App for logo classification. It uses a Machine Learning Model serves on an api
