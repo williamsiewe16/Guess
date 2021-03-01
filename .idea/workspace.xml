@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dba7b3d4-7db7-48c6-9ed7-92cffc9fe01d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ProjectId" id="1orJXKTGLc3LZLF7CCDR8aN6gDs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dba7b3d4-7db7-48c6-9ed7-92cffc9fe01d" name="Default Changelist" comment="" />
+      <created>1614038815341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614038815341</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="172" y="127" width="1648" height="853" key="AVDManager" timestamp="1614042947726">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="172" y="127" width="1648" height="853" key="AVDManager/72.27.1848.1053@72.27.1848.1053" timestamp="1614042947726" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1614119123348">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1614119123348" />
+    <state width="878" height="275" key="GridCell.Tab.0.bottom" timestamp="1614632257399">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="878" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1614632257399" />
+    <state width="878" height="275" key="GridCell.Tab.0.center" timestamp="1614632257398">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="878" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1614632257398" />
+    <state width="878" height="275" key="GridCell.Tab.0.left" timestamp="1614632257397">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="878" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1614632257397" />
+    <state width="878" height="275" key="GridCell.Tab.0.right" timestamp="1614632257398">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="878" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1614632257398" />
+    <state x="326" y="78" width="1022" height="737" key="SettingsEditor" timestamp="1614121850341">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="326" y="78" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1614121850341" />
+  </component>
+</project>
